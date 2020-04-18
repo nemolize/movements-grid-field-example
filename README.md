@@ -1,2 +1,1 @@
-# movements-grid-field-example
-Created with CodeSandbox
+# React + Typescript CodeSandbox container
